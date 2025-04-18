@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://diogofgomespinheiro.github.io/dev-challenges-simple-faq" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/diogofgomespinheiro/dev-challenges-simple-faq" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-faq-challenge">
+    <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">
       Challenge
     </a>
   </h3>
